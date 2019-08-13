@@ -1,0 +1,2 @@
+# bossname
+waste
